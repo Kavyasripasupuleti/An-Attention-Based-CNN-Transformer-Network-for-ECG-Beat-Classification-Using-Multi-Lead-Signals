@@ -1,0 +1,2 @@
+# An-Attention-Based-CNN-Transformer-Network-for-ECG-Beat-Classification-Using-Multi-Lead-Signals
+I built an automated deep learning model to classify heart conditions using PTB-XL 12-lead ECGs. The framework combines 1D CNNs for wave patterns, a Transformer Encoder for long-term rhythms, and Temporal Attention to highlight critical beat segments. It achieved 97.06% accuracy across 5 major diagnostic classes.
